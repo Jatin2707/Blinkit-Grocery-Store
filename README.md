@@ -10,7 +10,7 @@ By boosting sales, refining product offers according to consumer preferences, an
 2. Supermarket Type2 and Type3 collectively make up 25.76% of the outlets.
 3. Grocery stores contribute only 9.72% to the dataset.
 
-####Outlet Location Analysis:
+#### Outlet Location Analysis:
 
 1. Tier 3 cities have the highest presence with 43.75% of stores.
 2. Tier 2 cities account for 31.25%, while Tier 1 has the least at 25%.
